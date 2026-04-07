@@ -1,7 +1,10 @@
 aid: iheartmedia
-url: https://raw.githubusercontent.com/api-evangelist/iheartmedia/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/iheartmedia/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.iheartmedia.com
+description: >-
+  America's #1 Audio Company - Reaching 9 out of 10 Americans every month.
