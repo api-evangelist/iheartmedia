@@ -21,6 +21,8 @@ url: https://raw.githubusercontent.com/api-evangelist/iheartmedia/refs/heads/mai
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/iheartmedia
   - type: Website
     url: https://www.iheartmedia.com
   - type: Newsroom
