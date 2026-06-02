@@ -1,0 +1,10 @@
+---
+title: iHeartMedia Hosts “iHeartRadio Album Preview with Foo Fighters” Including Never
+  Before Heard Music From Your Favorite Toy, Airing Exclusively on iHeartRadio Stations
+  on April 23
+url: https://content.iheartmedia.com/press/iheartmedia-hosts-iheartradio-album-preview-foo-fighters-including-never-heard-music-your
+date: '2026-05-25'
+author: iHeartMedia
+feed_url: http://www.iheartmedia.com/feed
+---
+Foo Fighters will share never before heard songs and stories with fans from the upcoming album, Your Favorite Toy, ahead of its official release on April 24 The event will broadcast exclusively on iHeartRadio Rock and Alternative stations on April 23 at 9 p.m. ET WHAT: iHeartMedia today announced they will host the “iHeartRadio Album Preview with Foo Fighters” taking place on April 23 at 9 p.m. ET. Foo Fighters will share never before heard songs and stories with fans from the band’s upcoming album, Your Favorite Toy ahead of the album's official release on April 24. Taped at the iHeartRadio Los Angeles Theater and hosted by Johnny Knoxville, the broadcast will air exclusively on iHeartRadio Rock and Alternative stations and on Rock Nation digital station on the iHeartRadio app at 9 p.m. ET on April 23. WHO: The 12th album in Foo Fighters’ 15-GRAMMY-Award-winning discography, Your Favorite Toy was recorded at home, co-produced by the band and Oliver Roman, and mixed by Mark “Spike” Stent. Your Favorite Toy’s release coincides with Dave Grohl, Nate Mendel, Chris Shiflett, Pat Smear, Rami Jaffee and Ilan Rubin embarking on their massive Take Cover world tour. For more information on the rock ’n’ roll stadium tour of the summer, go to foofighters.com . WHEN: The broadcast will air on Thursday, April 23, 2026 at 9 p.m. ET. WHERE: “iHeartRadio Album Preview with Foo Fighters” will air across iHeartRadio Rock and Alternative stations and on Rock Nation digital station. MORE: Photos from the event can be found HERE. Password: iHeartTheater2026 Photo credit in caption: (Jesse Grant/Getty Images for iHeartRadio, Skyler Barberio for iHeartRadio)
