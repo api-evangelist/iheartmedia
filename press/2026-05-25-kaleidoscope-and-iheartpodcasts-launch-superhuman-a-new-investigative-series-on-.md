@@ -2,7 +2,9 @@
 title: Kaleidoscope And iHeartPodcasts Launch “SuperHuman,” A New Investigative Series
   On The Enhanced Games And The True Limits Of Human Performance
 url: https://content.iheartmedia.com/press/kaleidoscope-and-iheartpodcasts-launch-superhuman-new-investigative-series-enhanced-games-and
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 author: iHeartMedia
 feed_url: https://feeds.feedburner.com/iHeartMediaPressReleases
 ---

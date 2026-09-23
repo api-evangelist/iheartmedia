@@ -2,7 +2,9 @@
 title: FOX Sports, iHeartMedia Bring FOX’s FIFA World Cup 2026™ Coverage to iHeart
   Audio Platforms This Summer
 url: https://content.iheartmedia.com/press/fox-sports-iheartmedia-bring-foxs-fifa-world-cup-2026tm-coverage-iheart-audio-platforms
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 author: iHeartMedia
 feed_url: https://feeds.feedburner.com/iHeartMediaPressReleases
 ---

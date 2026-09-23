@@ -2,7 +2,9 @@
 title: Sonoro and iHeartMedia’s My Cultura Podcast Network Launch “Help From A Hypocrite
   with Joey Dardano”
 url: https://content.iheartmedia.com/press/sonoro-and-iheartmedias-my-cultura-podcast-network-launch-help-hypocrite-joey-dardano
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 author: iHeartMedia
 feed_url: https://feeds.feedburner.com/iHeartMediaPressReleases
 ---

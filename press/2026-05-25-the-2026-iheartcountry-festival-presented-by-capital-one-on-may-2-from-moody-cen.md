@@ -2,7 +2,9 @@
 title: The 2026 iHeartCountry Festival Presented by Capital One on May 2 from Moody
   Center in Austin, Texas
 url: https://content.iheartmedia.com/press/2026-iheartcountry-festival-presented-capital-one-may-2-moody-center-austin-texas
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 author: iHeartMedia
 feed_url: https://feeds.feedburner.com/iHeartMediaPressReleases
 ---

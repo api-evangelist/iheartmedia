@@ -1,7 +1,9 @@
 ---
 title: MapQuest and iHeartRadio Launch First-Ever Audio Integration on MapQuest.com
 url: https://content.iheartmedia.com/press/mapquest-and-iheartradio-launch-first-ever-audio-integration-mapquestcom
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 author: iHeartMedia
 feed_url: https://feeds.feedburner.com/iHeartMediaPressReleases
 ---

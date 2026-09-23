@@ -2,7 +2,9 @@
 title: '“iHeartRadio Album Preview with Zara Larsson” Featuring Exclusive Music from
   Her Remix Album Midnight Sun: Girls Trip, Streaming LIVE on TikTok April 30'
 url: https://content.iheartmedia.com/press/iheartradio-album-preview-zara-larsson-featuring-exclusive-music-her-remix-album-midnight-sun
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 author: iHeartMedia
 feed_url: https://feeds.feedburner.com/iHeartMediaPressReleases
 ---

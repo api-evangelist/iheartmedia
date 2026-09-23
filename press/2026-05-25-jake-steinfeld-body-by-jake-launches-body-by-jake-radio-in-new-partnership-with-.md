@@ -2,7 +2,9 @@
 title: Jake Steinfeld (“Body By Jake”) Launches “Body By Jake Radio” In New Partnership
   with iHeartMedia and Universal Music Enterprises
 url: https://content.iheartmedia.com/press/jake-steinfeld-body-jake-launches-body-jake-radio-new-partnership-iheartmedia-and-universal
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 author: iHeartMedia
 feed_url: https://feeds.feedburner.com/iHeartMediaPressReleases
 ---

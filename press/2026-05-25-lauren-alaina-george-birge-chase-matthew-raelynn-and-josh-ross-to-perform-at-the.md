@@ -3,7 +3,9 @@ title: Lauren Alaina, George Birge, Chase Matthew, RaeLynn and Josh Ross to Perf
   at the Daytime Village at the 2026 iHeartCountry Festival Presented by Capital One
   on May 2
 url: https://content.iheartmedia.com/press/lauren-alaina-george-birge-chase-matthew-raelynn-and-josh-ross-perform-daytime-village-2026
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 author: iHeartMedia
 feed_url: https://feeds.feedburner.com/iHeartMediaPressReleases
 ---

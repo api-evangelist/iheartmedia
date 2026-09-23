@@ -2,7 +2,9 @@
 title: 'Romance Publisher 831 Stories and iHeartPodcasts Launch “Radio 831: A Romance
   Podcast” Hosted by Sanjana Basker and Tyler McCall'
 url: https://content.iheartmedia.com/press/romance-publisher-831-stories-and-iheartpodcasts-launch-radio-831-romance-podcast-hosted
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 author: iHeartMedia
 feed_url: https://feeds.feedburner.com/iHeartMediaPressReleases
 ---

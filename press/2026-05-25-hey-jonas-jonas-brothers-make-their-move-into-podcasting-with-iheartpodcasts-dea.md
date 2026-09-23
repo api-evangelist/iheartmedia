@@ -2,7 +2,9 @@
 title: '“Hey Jonas!”: Jonas Brothers Make Their Move Into Podcasting with iHeartPodcasts
   Deal'
 url: https://content.iheartmedia.com/press/hey-jonas-jonas-brothers-make-their-move-podcasting-iheartpodcasts-deal
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 author: iHeartMedia
 feed_url: https://feeds.feedburner.com/iHeartMediaPressReleases
 ---

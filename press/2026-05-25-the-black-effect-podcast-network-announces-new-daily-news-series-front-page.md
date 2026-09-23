@@ -1,7 +1,9 @@
 ---
 title: The Black Effect Podcast Network Announces New Daily News Series, “Front Page”
 url: https://content.iheartmedia.com/press/black-effect-podcast-network-announces-new-daily-news-series-front-page
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 author: iHeartMedia
 feed_url: https://feeds.feedburner.com/iHeartMediaPressReleases
 ---

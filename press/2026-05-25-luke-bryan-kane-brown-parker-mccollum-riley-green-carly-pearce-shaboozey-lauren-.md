@@ -3,7 +3,9 @@ title: Luke Bryan, Kane Brown, Parker McCollum, Riley Green, Carly Pearce, Shabo
   Lauren Alaina, Dylan Scott, Russell Dickerson, Gretchen Wilson and More Took to
   the Stage at This Year’s iHeartCountry Festival Presented by Capital One
 url: https://content.iheartmedia.com/press/luke-bryan-kane-brown-parker-mccollum-riley-green-carly-pearce-shaboozey-lauren-alaina-0
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 author: iHeartMedia
 feed_url: https://feeds.feedburner.com/iHeartMediaPressReleases
 ---

@@ -3,7 +3,9 @@ title: iHeartMedia Hosts “iHeartRadio Album Preview with Foo Fighters” Inclu
   Before Heard Music From Your Favorite Toy, Airing Exclusively on iHeartRadio Stations
   on April 23
 url: https://content.iheartmedia.com/press/iheartmedia-hosts-iheartradio-album-preview-foo-fighters-including-never-heard-music-your
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 author: iHeartMedia
 feed_url: https://feeds.feedburner.com/iHeartMediaPressReleases
 ---

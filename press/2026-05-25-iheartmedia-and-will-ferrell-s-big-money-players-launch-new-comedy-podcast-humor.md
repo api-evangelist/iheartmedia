@@ -2,7 +2,9 @@
 title: iHeartMedia and Will Ferrell’s Big Money Players Launch New Comedy Podcast
   “Humor Me With Robert Smigel & Friends”
 url: https://content.iheartmedia.com/press/iheartmedia-and-will-ferrells-big-money-players-launch-new-comedy-podcast-humor-me-robert
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 author: iHeartMedia
 feed_url: https://feeds.feedburner.com/iHeartMediaPressReleases
 ---

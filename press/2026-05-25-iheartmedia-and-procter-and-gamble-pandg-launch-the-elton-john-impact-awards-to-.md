@@ -2,7 +2,9 @@
 title: iHeartMedia and Procter & Gamble (P&G) Launch the Elton John Impact Awards
   to Honor LGBTQ+ Icons and Trailblazers with a Podcast Special Airing June 1
 url: https://content.iheartmedia.com/press/iheartmedia-and-procter-gamble-pg-launch-elton-john-impact-awards-honor-lgbtq-icons-and
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 author: iHeartMedia
 feed_url: https://feeds.feedburner.com/iHeartMediaPressReleases
 ---

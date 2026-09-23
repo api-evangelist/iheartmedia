@@ -2,7 +2,9 @@
 title: iHeartMedia Spotlights New Music from Gracie Abrams; Debuts “Body By Jake”
   Radio with Fitness Icon
 url: https://content.iheartmedia.com/press/iheartmedia-spotlights-new-music-gracie-abrams-debuts-body-jake-radio-fitness-icon
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 author: iHeartMedia
 feed_url: https://feeds.feedburner.com/iHeartMediaPressReleases
 ---
