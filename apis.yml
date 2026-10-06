@@ -39,11 +39,13 @@ tags:
   - Radio
   - Fortune 500
 created: '2026-03-24'
-modified: '2026-04-28'
+modified: '2026-10-06'
 url: https://raw.githubusercontent.com/api-evangelist/iheartmedia/refs/heads/main/apis.yml
 specificationVersion: '0.23'
 apis: []
 common:
+  - url: https://www.iheartmedia.com/press
+    type: Blog
   - type: DomainSecurity
     url: security/iheartmedia-domain-security.yml
   - type: LinkedIn
